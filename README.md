@@ -21,6 +21,6 @@ JavaScript: Adds interactivity and dynamic behavior to the application.
 Clone the repository to your local machine.
 Open the index.html file in your preferred web browser.
 Demo:
-Check out the live demo here.[a](news-explorer-app-irfan-ullahs-projects.vercel.app)
+[Check out the live demo here](news-explorer-app-irfan-ullahs-projects.vercel.app)
 
 Feel free to explore, contribute, and provide feedback. Stay informed with News Explorer!
