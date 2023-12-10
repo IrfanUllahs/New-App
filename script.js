@@ -13,7 +13,8 @@ let secondryNav=document.querySelector('.secondary-navbar')
 async function fetchNews(query) {
     const res = await fetch(`${url}${query}&apiKey=${API_KEY}`);
     const data = await res.json();
-   
+       console.log(data)
+          console.log(typeof data)
     extractData(data.articles)
 }
 function extractData(articles){
