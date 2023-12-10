@@ -25,6 +25,6 @@ Welcome to News Explorer, a web application developed using HTML, CSS, and JavaS
 
 ## Demo:
 
-[Check out the live demo here](https://news-explorer-app-mu.vercel.app)
+The API I used in this project working on only localhost.
 
 Feel free to explore, contribute, and provide feedback. Stay informed with News Explorer!
